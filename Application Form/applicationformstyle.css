@@ -1,0 +1,161 @@
+*{
+    box-sizing: border-box; 
+ }
+ 
+ body{ 
+     margin: 15px 30px;
+     font-size: 17px;
+     padding: 8px;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ .container{
+     background-color: whitesmoke;
+     padding: 5px 20px 15px 20px;
+     border: 1px solid rgb(253, 0, 84);
+     border-radius: 4px;
+ }
+ 
+ 
+ 
+ input[type="email"],
+ input[type="number"],
+ input[type="week"],
+ input[type="check-box"],
+ select,
+ textarea{
+     background-color: rgb(220, 197, 226);
+ width: 100%;
+ padding: 12px;
+ border: 1px solid rgb(253, 0, 84);
+ border-radius: 4px;
+ 
+ }
+ 
+ input[type="name"]{
+   margin: 3px;
+     background-color: rgb(220, 197, 226);
+ width: 100%;
+ padding: 12px;
+ border: 1px solid rgb(253, 0, 84);
+ border-radius: 4px;
+   
+ }
+
+ input[type="radio"]{
+    margin: 3px;
+      background-color: rgb(220, 197, 226);
+  width: 100%;
+  padding: 12px;
+  border: 1px solid rgb(253, 0, 84);
+  border-radius: 4px;
+    
+  }
+ 
+ fieldset{
+     background-color: rgb(220, 197, 226);
+     width: 100%;
+ padding: 12px;
+ border: 1px solid rgb(253, 0, 84);
+ border-radius: 4px;
+ 
+ }
+ 
+legend{
+    background-color: rgb(220, 197, 226);
+    width: 100%;
+padding: 12px;
+border: 1px solid rgb(253, 0, 84);
+border-radius: 4px;
+
+
+}
+
+
+ h1{
+ text-align: center;
+ }
+ 
+ /*
+ input[ type="submit"]{
+    height: 50px;
+     width: 100px;
+     background-color: rgb(220, 197, 226);
+     border: 1px solid rgb(253, 0, 84);
+ border-radius: 4px;
+ font-weight: bold;
+ font-weight: 900;
+ 
+ 
+ }
+ */
+ 
+ 
+ .languages{
+     background-color: rgb(220, 197, 226);
+     width: 100%;
+ padding: 12px;
+ border: 1px solid rgb(253, 0, 84);
+ border-radius: 4px;
+ 
+ 
+ }
+
+/*
+ input[type="check-box"]{
+    background-color: rgb(220, 197, 226);
+    width: 100%; 
+    padding: 12px;
+    border: 1px solid rgb(253, 0, 84);
+    border-radius: 4px; 
+
+
+
+    position: relative;
+    overflow: hidden;
+}
+
+*/
+    
+ 
+
+ .Button{
+   
+    
+
+    margin: 10px;
+    display: flex;
+
+
+    padding: 12px;
+    
+   
+    text-decoration: none;
+    color :black;
+    position: relative;
+   align-items: center;
+
+
+   height: 50px;
+   width: 100px;
+   background-color: rgb(220, 197, 226);
+   border: 1px solid rgb(253, 0, 84);
+   border-radius: 4px;
+   font-weight: bold;
+   font-weight: 900;
+ }
+
+ 
+ 
+
+ /*
+ input[type="check-box"]:hover{
+    width: 300PX;
+    height: 300PX;
+    background-color: blueviolet;
+ }
+
+ */
+
+
+ 
